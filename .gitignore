@@ -1,0 +1,9 @@
+# Node
+node_modules/
+
+# Angular
+.angular/
+dist/
+
+# Logs
+npm-debug.log*
