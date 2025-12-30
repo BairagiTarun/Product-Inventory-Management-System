@@ -1,9 +1,15 @@
-# Node
 node_modules/
 
-# Angular
 .angular/
 dist/
 
-# Logs
 npm-debug.log*
+
+.env
+enviroments.ts
+package.json
+package-lock.json
+tsconfig.json
+tslint.json
+webpack.config.js
+webpack.config.prod.js
